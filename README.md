@@ -4,9 +4,9 @@
 
 
 ## what we are goning to do?
-## installing Media Pipe.
-## Detecting hand poses.
-## Outputting image by OpenCV.
+- installing[ Media Pipe](https://mediapipe.readthedocs.io/en/latest/solutions/hands.html).
+- Detecting hand poses.
+- Outputting image by[ OpenCV](https://opencv.org).
 
 ## 📥Installing Media Pipe
 '''pip
@@ -17,4 +17,6 @@
 - OpenCV >> open computer vision libraries it allow to work with a webcam amd imagies really well.
 
 ## next i will import those independency
+![code2](https://github.com/yihadd/AI-Hand-Pose-Estimation-with-MediaPipe-and-Python/assets/141911690/7fa5f74b-12a5-489f-be69-080ff469a69d)
+
 
