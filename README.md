@@ -9,7 +9,6 @@
 - Outputting image by[ OpenCV](https://opencv.org).
 
 ## 📥Installing Media Pipe
-'''pip
 ![code1](https://github.com/yihadd/AI-Hand-Pose-Estimation-with-MediaPipe-and-Python/assets/141911690/b5e286af-7653-4c77-a83f-d55567be9cef)
 
 ## Mediapipe and OpenCV are going to be two core dependency
