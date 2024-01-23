@@ -19,4 +19,9 @@
 ## next i will import those independency
 ![code2](https://github.com/yihadd/AI-Hand-Pose-Estimation-with-MediaPipe-and-Python/assets/141911690/7fa5f74b-12a5-489f-be69-080ff469a69d)
 
+## this is a two media pipe component
+
+- first line >> utils(utilities) drawing utilities just make it easier for us to render all the different landmarks in our hand
+- when you get the output from the media pipe >> what you're going to get is a series of landmarks, so there's going to be one landmark for each individual joint in your hand.
+  
 
